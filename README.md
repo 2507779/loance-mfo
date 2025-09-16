@@ -1,5 +1,5 @@
 # loance-mfo
-# LOANCE MFO – Сравнение микрофинансовых организаций
+# LOANCE MFO –
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://2507779.github.io/loance-mfo/)
 
